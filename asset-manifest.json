@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shubham-Kumar_Front-End/static/css/main.e6c13ad2.css",
+    "main.js": "/Shubham-Kumar_Front-End/static/js/main.dbe1fff1.js",
+    "static/js/787.37ac46db.chunk.js": "/Shubham-Kumar_Front-End/static/js/787.37ac46db.chunk.js",
+    "index.html": "/Shubham-Kumar_Front-End/index.html",
+    "main.e6c13ad2.css.map": "/Shubham-Kumar_Front-End/static/css/main.e6c13ad2.css.map",
+    "main.dbe1fff1.js.map": "/Shubham-Kumar_Front-End/static/js/main.dbe1fff1.js.map",
+    "787.37ac46db.chunk.js.map": "/Shubham-Kumar_Front-End/static/js/787.37ac46db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dbe1fff1.js"
+  ]
+}
